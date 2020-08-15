@@ -1,5 +1,5 @@
-### Hello friend.
+### Hello!
 
 - 🔭 CTO @ Asteroid 1 Technologies, Inc.
-- 💬 Talk to me about anything whatsoever!
+- 💬 Send me an email: pbourgeois@asteroid1.com
 
